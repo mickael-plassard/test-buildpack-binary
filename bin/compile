@@ -2,3 +2,4 @@
 # $1 = build dir
 # Ensure binary is executable
 chmod +x "$1/app"
+echo "$SOURCE_VERSION"
